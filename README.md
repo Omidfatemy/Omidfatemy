@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omidfatemy
 - 👀 I’m interested in PY
-- 🌱 I’m currently learning PY
+- 🌱 I’m always learning PY, and coding based on PEP8
 - 💞️ I’m looking to collaborate on PY
 - 📫 How to reach me omidomran2020@yahoo.com
 
